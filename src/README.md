@@ -2,7 +2,6 @@
 home: true
 icon: home
 title: Home
-heroImage: /assets/logos/header.png
 heroText: " "
 
 features:
